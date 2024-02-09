@@ -1,6 +1,7 @@
 package Exhaustive_Search;
 
 public class solution_1 {
+//    완전탐색 > 최소직사각형
     public static void main(String[] args) {
         int[][] cards = {
                 {60, 50},
