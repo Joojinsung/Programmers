@@ -1,4 +1,4 @@
-package Greedy;
+package programmers.Greedy;
 
 import java.util.Stack;
 

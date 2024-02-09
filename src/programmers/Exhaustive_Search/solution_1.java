@@ -1,4 +1,4 @@
-package Exhaustive_Search;
+package programmers.Exhaustive_Search;
 
 public class solution_1 {
 //    완전탐색 > 최소직사각형

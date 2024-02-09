@@ -1,4 +1,4 @@
-//package Greedy;
+//package programmers.Greedy;
 //
 //public class Solution_2 {
 //
