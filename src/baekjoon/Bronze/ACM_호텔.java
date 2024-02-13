@@ -1,6 +1,6 @@
 package baekjoon.Bronze;
 
-import java.util.Arrays;
+
 import java.util.Scanner;
 
 public class ACM_호텔 {
