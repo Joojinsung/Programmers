@@ -1,11 +1,12 @@
-//package programmers.Greedy;
-//
-//public class Solution_2 {
-//
-////   0 : A, 1 : B, 2 : C, 3 : D, 4 : E, 5 : F, 6 : G, 7 : H, 8 : I, 9 : J, 10 :
-////   K, 11 : L, 12 : M, 13 : N, 14 : O, 15 : P, 16 : Q, 17 : R, 18 : S, 19 :
-////   T, 20 : U, 21 : V, 22 : W, 23 : X, 24 : Y, 25 : Z
-//
+/*
+////package programmers.Greedy;
+////
+////public class Solution_2 {
+////
+//////   0 : A, 1 : B, 2 : C, 3 : D, 4 : E, 5 : F, 6 : G, 7 : H, 8 : I, 9 : J, 10 :
+//////   K, 11 : L, 12 : M, 13 : N, 14 : O, 15 : P, 16 : Q, 17 : R, 18 : S, 19 :
+//////   T, 20 : U, 21 : V, 22 : W, 23 : X, 24 : Y, 25 : Z
+////
 //    public static void main(String[] args) {
 //        String name = "JAN";
 //        int totalMove = 0; // 전체 이동횟수
@@ -17,7 +18,7 @@
 //            System.out.println(totalMove);
 //        }
 //    }
-//
+////
 //
 //    //A 는 65, Z는 90
 //    //첫 단어
@@ -37,3 +38,4 @@
 ////    BBAABAAAA -> BBAAB 까지만 가면 나머지는 어차피 A이기때문에 굳이 커서를 안옮기고 제출하면 최소경로
 //
 //}
+*/
