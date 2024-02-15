@@ -1,10 +1,13 @@
-//package baekjoon.Bronze;
+////package baekjoon.Bronze;
+////
+////public class Moo {
+////    "(___)
+////            (o o)____/
+////    @@      \\
+////            \\ ____,/
+////            //   //
+////            ^^   ^^"
 //
-//public class Moo {
-//    "(___)
-//            (o o)____/
-//    @@      \\
-//            \\ ____,/
-//            //   //
-//            ^^   ^^"
+//
 //}
+////}
